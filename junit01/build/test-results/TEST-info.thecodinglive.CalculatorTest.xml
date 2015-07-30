@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="info.thecodinglive.CalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2015-07-30T09:33:50" hostname="pyohwan-pubdev-ubuntu" time="0.001">
+  <properties/>
+  <testcase name="verifySetup" classname="info.thecodinglive.CalculatorTest" time="0.0"/>
+  <testcase name="testSum" classname="info.thecodinglive.CalculatorTest" time="0.0"/>
+  <testcase name="testStaticSum" classname="info.thecodinglive.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[hi junit
+hi junit
+hi junit
+hi junit
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
